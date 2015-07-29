@@ -1,3 +1,3 @@
 # TweetsShare
 
-twilog-like original application.
+a twilog-like original application.
